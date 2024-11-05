@@ -1,0 +1,7 @@
+create a file in src :-  
+             echo//app.js file > app.js
+             touch app.js index.js
+
+create a folder in src :- 
+           mkdir controllers db middlewares models routes utils 
+           
